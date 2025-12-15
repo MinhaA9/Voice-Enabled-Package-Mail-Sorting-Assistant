@@ -88,4 +88,4 @@ Notes:
 
 Author:
 -------
-Your Name / Your Contact Info
+Minha Anika
