@@ -73,8 +73,11 @@ Libraries / Dependencies:
 How to Run:
 -----------
 1. Ensure all required libraries are installed (use pip to install missing packages).
-2. Run the application by executing:
 
+2. Make sure the Vosk model is downloaded and set the path in backend_voicemode.py:   
+   MODEL_PATH = "C:\\vosk-model-small-en-us-0.15"
+
+3. Run the application by executing:
    python main.py
 
 This will load the start page, initialize the databases, and launch the full app with 
