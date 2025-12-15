@@ -1,0 +1,38 @@
+Name,Email,Department,Package Type,Tracking Number,Received Date,Day Name,Day,Month,Year
+Alice Johnson,alice@company.com,HR,UPS,1Z8473A99234567123,2023-02-14,Tuesday,14,2,2023
+Grace Kim,grace.kim@company.com,HR,FedEx,94001118992238574612,2023-05-08,Monday,8,5,2023
+Mia Rodriguez,mia.rodriguez@company.com,HR,USPS,92748902384756219834,2023-09-21,Thursday,21,9,2023
+Samuel Harris,samuel.harris@company.com,HR,Amazon,77129837465012398456,2023-11-03,Friday,3,11,2023
+Bob Smith,,IT,UPS,1Z5567B88234199876,2023-12-18,Monday,18,12,2023
+Frank Williams,frank.williams@company.com,IT,FedEx,94055112025578349102,2024-01-09,Tuesday,9,1,2024
+Liam Miller,liam.miller@company.com,IT,USPS,92748901928374651239,2024-02-22,Thursday,22,2,2024
+Rachel White,rachel.white@company.com,IT,Amazon,77129837465098761234,2024-03-15,Friday,15,3,2024
+Carol Martinez,carol.martinez@company.com,Finance,UPS,1Z9987C33221004567,2024-04-30,Tuesday,30,3,2024
+Isabella Garcia,isabella.garcia@company.com,Finance,FedEx,94001118992299887766,2024-05-16,Thursday,16,3,2024
+Olivia Taylor,olivia.taylor@company.com,Finance,USPS,92748902384567123098,2024-06-11,Tuesday,11,6,2024
+David Lee,david.lee@company.com,Marketing,Amazon,77129837465123456789,2024-07-19,Friday,19,7,2024
+Jack Wilson,jack.wilson@company.com,Marketing,UPS,1Z3344A99234876543,2024-08-26,Monday,26,7,2024
+Peter Thomas,peter.thomas@company.com,Marketing,FedEx,94055112025566778899,2024-09-12,Thursday,12,9,2024
+Emma Thompson,emma.thompson@company.com,Sales,USPS,92748901928374650001,2024-10-07,Monday,7,10,2024
+Karen Davis,karen.davis@company.com,Sales,Amazon,77129837465999887766,2024-11-21,Thursday,21,10,2024
+Quinn Moore,quinn.moore@company.com,Sales,UPS,1Z4455B88234999900,2024-12-05,Thursday,5,12,2024
+Henry Brown,henry.brown@company.com,Operations,FedEx,94001118992233445566,2025-01-14,Tuesday,14,1,2025
+Noah Anderson,noah.anderson@company.com,Operations,USPS,92748902384777766655,2025-02-10,Monday,10,2,2025
+Tina Clark,tina.clark@company.com,Operations,Amazon,77129837465111222333,2025-03-06,Thursday,6,2,2025
+Alice Johnson,,HR,UPS,1Z2233C88234123456,2025-04-18,Friday,18,4,2025
+Grace Kim,grace.kim@company.com,HR,FedEx,94055112025588990011,2025-05-27,Tuesday,27,5,2025
+Mia Rodriguez,mia.rodriguez@company.com,HR,USPS,92748902384599988877,2025-06-09,Monday,9,7,2025
+Samuel Harris,samuel.harris@company.com,HR,Amazon,77129837465055667788,2025-07-24,Thursday,24,7,2025
+Bob Smith,,IT,UPS,1Z6677D99234987654,2025-08-13,Wednesday,13,8,2025
+Alice Johnson,minha.anika@stonybrook.edu,,Amazon,1211,2025-12-14 11:03:33.782611,Sunday,14,12,2025
+Grace Kim,,,Amazon,3454,2025-12-14 11:06:56.637792,Sunday,14,12,2025
+Grace Kim,minha.anika@stonybrook.edu,,amazon,123,,Sunday,14,12,2025
+Grace Kim,minha.anika@stonybrook.edu,,FedEx,2343,2025-12-14 16:10:52.895621,Sunday,14,12,2025
+Grace Kim,minha.anika@stonybrook.edu,,amazon,1234,,Sunday,14,12,2025
+Olivia Taylor,minha.anika@stonybrook.edu,,amazon,8215,,Sunday,14,12,2025
+Alice Johnson,ajohnson@company.com,,amazon,543269,,Sunday,14,12,2025
+Olivia Taylor,minha.anika@stonybrook.edu,,FedEx,34545454,2025-12-14 20:25:14.702027,Sunday,14,12,2025
+Grace Kim,minha.anika@stonybrook.edu,,amazon,12058195,,Sunday,14,12,2025
+Grace Kim,minha.anika@stonybrook.edu,,UPS,34545454,2025-12-14 20:44:58.685197,Sunday,14,12,2025
+Grace Kim,minha.anika@stonybrook.edu,,UPS,34545,2025-12-14 20:51:30.577317,Sunday,14,12,2025
+Grace Kim,minha.anika@stonybrook.edu,,Amazon,676676,2025-12-14 21:14:50.806008,Sunday,14,12,2025
